@@ -24,7 +24,12 @@ body{
   
 } 
 
- 
+ .credits {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    bottom: 20px;
+}
 .bird{
     position: absolute;
      top:220px; 
